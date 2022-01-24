@@ -1,1 +1,1 @@
-# House-Price-Prediction-by-Multi-Variables
+# House-Price-Prediction-by-Linear-Regression(Multi Variable)
